@@ -1,6 +1,6 @@
 # Tugas UAS SPK
 Nama : Ananda Yusuf Siswanto<br>
-NIM : <br>
+NIM : 201011401145
 Kelas : 07-TPLP-013<br>
 
 ## Install requirements
