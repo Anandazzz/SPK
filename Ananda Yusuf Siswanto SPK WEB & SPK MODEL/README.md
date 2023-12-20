@@ -1,6 +1,6 @@
 # Tugas UAS SPK
 Nama : Ananda Yusuf Siswanto<br>
-NIM : 201011401145
+NIM : 201011401145 <br>
 Kelas : 07-TPLP-013<br>
 
 ## Install requirements
@@ -14,6 +14,4 @@ Untuk menjalankan:
 Install postman:
 [`Postman`](https://www.postman.com/downloads/)
 
-## Hasil Run Postman
-<img src='‪C:\Users\Anandas\Downloads\postman.jpeg' alt='Hasil run postman'/>
 
