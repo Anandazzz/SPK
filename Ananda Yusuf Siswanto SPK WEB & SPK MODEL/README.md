@@ -14,6 +14,6 @@ Untuk menjalankan:
 Install postman:
 [`Postman`](https://www.postman.com/downloads/)
 
-## Hasil
-<img src='screenshot/Screenshot hasil.png' alt='Screenshot Hasil'/>
+## Hasil Run Postman
+<img src='‪C:\Users\Anandas\Downloads\postman.jpeg' alt='Hasil run postman'/>
 
